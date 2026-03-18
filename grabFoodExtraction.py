@@ -1,8 +1,6 @@
 from pydantic import BaseModel,field_validator
 import re
 import json
-from datetime import datetime,time,timedelta
-import mysql.connector
 
 class Location(BaseModel):
     latitude:float
@@ -107,6 +105,9 @@ try:
                     ))
             menu_list.append(Menu(category=category['name'], items=items))
     
+    else:
+        print("Menu data is missing or not in expected format.")
+
     uber_eats_data = UberEats(
         restaurant_name=restaurant_name,
         product_category=product_category,
