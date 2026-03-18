@@ -1,0 +1,822 @@
+{
+    "merchant": {
+        "ID": "1-C2DYPGEYN8NYME",
+        "name": "[INACTV: PH25] Bob's Cuisine - Santai Corner",
+        "cuisine": "Western,Chicken Dish,Pasta,Fries",
+        "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/1-C2DYPGEYN8NYME/hero/093025e7fcae487ca1d90add85db9e40_1612179564920241924.webp",
+        "timeZone": "Asia/Kuala_Lumpur",
+        "ETA": 60,
+        "openingHours": {
+            "displayedHours": "Closed",
+            "sun": "Closed",
+            "mon": "10:00am-10:05am",
+            "tue": "Closed",
+            "wed": "Closed",
+            "thu": "Closed",
+            "fri": "Closed",
+            "sat": "Closed"
+        },
+        "isIntegrated": true,
+        "distanceInKm": 38.762,
+        "section": "MYSEC20201210032526018555",
+        "latlng": {
+            "latitude": 2.8130151,
+            "longitude": 101.7974459
+        },
+        "menu": {
+            "categories": [
+                {
+                    "ID": "MYCAT20201210032737022767",
+                    "name": "Western Cuisine",
+                    "available": true,
+                    "items": [
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3CLECLA",
+                            "name": "Chicken Marryland",
+                            "available": true,
+                            "priceInMinorUnit": 2270,
+                            "sortOrder": 9993,
+                            "discountedPriceInMin": 2270,
+                            "priceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2270,
+                            "discountedTakeawayPriceInMin": 2270,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3AN4DJA",
+                            "name": "Grill Chicken",
+                            "available": true,
+                            "priceInMinorUnit": 1985,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3AN4DJA/photo/4c955c6a93384ff0b403752e0e3572d8_1710214160933030029.webp",
+                            "sortOrder": 9992,
+                            "discountedPriceInMin": 1985,
+                            "priceV2": {
+                                "amountInMinor": 1985,
+                                "amountDisplay": "19.85"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1985,
+                                "amountDisplay": "19.85"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1985,
+                            "discountedTakeawayPriceInMin": 1985,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3AN4DJA/photo/4c955c6a93384ff0b403752e0e3572d8_1710214160933030029.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3AN4DJA/detail/4c955c6a93384ff0b403752e0e3572d8_1710214160933030029.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC3AN4DJA/photos/4c955c6a93384ff0b403752e0e3572d8_1710214160933030029.jpg"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2VGMFGT",
+                            "name": "Chicken Crispy Cheese",
+                            "available": true,
+                            "priceInMinorUnit": 2400,
+                            "sortOrder": 9991,
+                            "discountedPriceInMin": 2400,
+                            "priceV2": {
+                                "amountInMinor": 2400,
+                                "amountDisplay": "24.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2400,
+                                "amountDisplay": "24.00"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2400,
+                            "discountedTakeawayPriceInMin": 2400,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2TJJDLE",
+                            "name": "Chicken Cordon Blue",
+                            "available": true,
+                            "priceInMinorUnit": 2570,
+                            "sortOrder": 9990,
+                            "discountedPriceInMin": 2570,
+                            "priceV2": {
+                                "amountInMinor": 2570,
+                                "amountDisplay": "25.70"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2570,
+                                "amountDisplay": "25.70"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2570,
+                            "discountedTakeawayPriceInMin": 2570,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2RF4YAN",
+                            "name": "Chicken Chop",
+                            "available": true,
+                            "priceInMinorUnit": 1985,
+                            "sortOrder": 9989,
+                            "discountedPriceInMin": 1985,
+                            "priceV2": {
+                                "amountInMinor": 1985,
+                                "amountDisplay": "19.85"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1985,
+                                "amountDisplay": "19.85"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1985,
+                            "discountedTakeawayPriceInMin": 1985,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2MADWEA",
+                            "name": "Chicken Chop & Cheese",
+                            "available": true,
+                            "priceInMinorUnit": 1990,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC2MADWEA/photo/c0ef8a6eb6704562aa8f21f03d7489d2_1711911488623913130.webp",
+                            "sortOrder": 9988,
+                            "discountedPriceInMin": 1990,
+                            "priceV2": {
+                                "amountInMinor": 1990,
+                                "amountDisplay": "19.90"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1990,
+                                "amountDisplay": "19.90"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1990,
+                            "discountedTakeawayPriceInMin": 1990,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC2MADWEA/photo/c0ef8a6eb6704562aa8f21f03d7489d2_1711911488623913130.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC2MADWEA/detail/c0ef8a6eb6704562aa8f21f03d7489d2_1711911488623913130.webp"
+                            ],
+                            "imgHrefFallback": "https://food-cms.grab.com/item/1-C2DYPGEYN8NYME-C2DYRCC2MADWEA/photos/c0ef8a6eb6704562aa8f21f03d7489d2_1711911488623913130.jpg"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2KAEHVE",
+                            "name": "Mix Chicken & Beef",
+                            "available": true,
+                            "priceInMinorUnit": 3000,
+                            "sortOrder": 9987,
+                            "discountedPriceInMin": 3000,
+                            "priceV2": {
+                                "amountInMinor": 3000,
+                                "amountDisplay": "30.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 3000,
+                                "amountDisplay": "30.00"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 3000,
+                            "discountedTakeawayPriceInMin": 3000,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2G2ADL2",
+                            "name": "Hawaiian Chicken",
+                            "available": true,
+                            "priceInMinorUnit": 2270,
+                            "sortOrder": 9986,
+                            "discountedPriceInMin": 2270,
+                            "priceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2270,
+                            "discountedTakeawayPriceInMin": 2270,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2EXC2BA",
+                            "name": "Chicken Cheese",
+                            "available": true,
+                            "priceInMinorUnit": 2270,
+                            "sortOrder": 9985,
+                            "discountedPriceInMin": 2270,
+                            "priceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2270,
+                                "amountDisplay": "22.70"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2270,
+                            "discountedTakeawayPriceInMin": 2270,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2CRNWPE",
+                            "name": "Meat Ball",
+                            "available": true,
+                            "priceInMinorUnit": 1430,
+                            "sortOrder": 9984,
+                            "discountedPriceInMin": 1430,
+                            "priceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1430,
+                            "discountedTakeawayPriceInMin": 1430,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC2ABEWMA",
+                            "name": "Mixed Grill",
+                            "available": true,
+                            "priceInMinorUnit": 3640,
+                            "sortOrder": 9983,
+                            "discountedPriceInMin": 3640,
+                            "priceV2": {
+                                "amountInMinor": 3640,
+                                "amountDisplay": "36.40"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 3640,
+                                "amountDisplay": "36.40"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 3640,
+                            "discountedTakeawayPriceInMin": 3640,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC1UBTDAJ",
+                            "name": "Lamb Chop",
+                            "available": true,
+                            "priceInMinorUnit": 2830,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1UBTDAJ/photo/230eb021fb54477cb0972ccac4cea464_1706717793766803289.webp",
+                            "sortOrder": 9982,
+                            "discountedPriceInMin": 2830,
+                            "priceV2": {
+                                "amountInMinor": 2830,
+                                "amountDisplay": "28.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2830,
+                                "amountDisplay": "28.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2830,
+                            "discountedTakeawayPriceInMin": 2830,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1UBTDAJ/photo/230eb021fb54477cb0972ccac4cea464_1706717793766803289.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1UBTDAJ/detail/230eb021fb54477cb0972ccac4cea464_1706717793766803289.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC1UBTDAJ/photos/230eb021fb54477cb0972ccac4cea464_1706717793766803289.jpg"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC1SBDCJ2",
+                            "name": "Beef Steak",
+                            "available": true,
+                            "priceInMinorUnit": 2570,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1SBDCJ2/photo/03d99363fd3343ae9b87cfc292c5e8d8_1698663789158779338.webp",
+                            "sortOrder": 9981,
+                            "discountedPriceInMin": 2570,
+                            "priceV2": {
+                                "amountInMinor": 2570,
+                                "amountDisplay": "25.70"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2570,
+                                "amountDisplay": "25.70"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2570,
+                            "discountedTakeawayPriceInMin": 2570,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1SBDCJ2/photo/03d99363fd3343ae9b87cfc292c5e8d8_1698663789158779338.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1SBDCJ2/detail/03d99363fd3343ae9b87cfc292c5e8d8_1698663789158779338.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC1SBDCJ2/photos/03d99363fd3343ae9b87cfc292c5e8d8_1698663789158779338.jpg"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC1NXMBLE",
+                            "name": "Fish & Chip",
+                            "available": true,
+                            "priceInMinorUnit": 1850,
+                            "sortOrder": 9980,
+                            "discountedPriceInMin": 1850,
+                            "priceV2": {
+                                "amountInMinor": 1850,
+                                "amountDisplay": "18.50"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1850,
+                                "amountDisplay": "18.50"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1850,
+                            "discountedTakeawayPriceInMin": 1850,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        }
+                    ],
+                    "sortOrder": 10002,
+                    "CustomisedData": {
+                        "Name": {
+                            "Value": {
+                                "en": "Western Cuisine",
+                                "ko": "양식",
+                                "zh": "西餐"
+                            }
+                        }
+                    },
+                    "createdAt": {
+                        "seconds": 1607570857,
+                        "nanos": 682121000
+                    }
+                },
+                {
+                    "ID": "MYCAT20201210032737013728",
+                    "name": "Pasta",
+                    "available": true,
+                    "items": [
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC1LPEUAN",
+                            "name": "Spaghetti Bolognese",
+                            "available": true,
+                            "priceInMinorUnit": 1430,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1LPEUAN/photo/8ac7ef88d6b541f29d033bf8f3d61fd6_1696849344133523171.webp",
+                            "sortOrder": 9979,
+                            "discountedPriceInMin": 1430,
+                            "priceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1430,
+                            "discountedTakeawayPriceInMin": 1430,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1LPEUAN/photo/8ac7ef88d6b541f29d033bf8f3d61fd6_1696849344133523171.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1LPEUAN/detail/8ac7ef88d6b541f29d033bf8f3d61fd6_1696849344133523171.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC1LPEUAN/photos/8ac7ef88d6b541f29d033bf8f3d61fd6_1696849344133523171.jpg"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC1JCEXPA",
+                            "name": "Spaghetti Carbonara",
+                            "priceInMinorUnit": 1430,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1JCEXPA/photo/1953415401154541981f27cec5e2c7c6_1697530714800206709.webp",
+                            "sortOrder": 9978,
+                            "discountedPriceInMin": 1430,
+                            "priceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1430,
+                            "discountedTakeawayPriceInMin": 1430,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1JCEXPA/photo/1953415401154541981f27cec5e2c7c6_1697530714800206709.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC1JCEXPA/detail/1953415401154541981f27cec5e2c7c6_1697530714800206709.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC1JCEXPA/photos/1953415401154541981f27cec5e2c7c6_1697530714800206709.jpg"
+                        }
+                    ],
+                    "sortOrder": 10001,
+                    "CustomisedData": {
+                        "Name": {
+                            "Value": {
+                                "en": "Pasta",
+                                "ko": "파스타",
+                                "zh": "意大利面"
+                            }
+                        }
+                    },
+                    "createdAt": {
+                        "seconds": 1607570857,
+                        "nanos": 431553000
+                    }
+                },
+                {
+                    "ID": "MYCAT20201210032739014003",
+                    "name": "Cheesy Fries",
+                    "available": true,
+                    "items": [
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3PF33R6",
+                            "name": "Bacon Cheese Fries",
+                            "available": true,
+                            "priceInMinorUnit": 1740,
+                            "description": "Served with beef bacon.",
+                            "sortOrder": 9998,
+                            "discountedPriceInMin": 1740,
+                            "priceV2": {
+                                "amountInMinor": 1740,
+                                "amountDisplay": "17.40"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1740,
+                                "amountDisplay": "17.40"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1740,
+                            "discountedTakeawayPriceInMin": 1740,
+                            "merchantID": "1-C2DYPGEYN8NYME"
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3NANJCX",
+                            "name": "Melted Cheese Fries",
+                            "available": true,
+                            "priceInMinorUnit": 1430,
+                            "sortOrder": 9997,
+                            "discountedPriceInMin": 1430,
+                            "priceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {},
+                                "attributes": {
+                                    "Dietary preferences": {
+                                        "attributes": [
+                                            {
+                                                "id": "ATT-C4JCRNNDPGCCJN4805",
+                                                "name": "Vegetarian"
+                                            }
+                                        ],
+                                        "groupID": "ACL-C4JCRNDKVB5CVX7516"
+                                    }
+                                }
+                            },
+                            "takeawayPriceInMin": 1430,
+                            "discountedTakeawayPriceInMin": 1430,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "dietary": [
+                                "dietaryPreferences_vegetarian"
+                            ]
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3KBMFLT",
+                            "name": "Melted Cheese Fries with Black Pepper",
+                            "available": true,
+                            "priceInMinorUnit": 1430,
+                            "sortOrder": 9996,
+                            "discountedPriceInMin": 1430,
+                            "priceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1430,
+                                "amountDisplay": "14.30"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {},
+                                "attributes": {
+                                    "Dietary preferences": {
+                                        "attributes": [
+                                            {
+                                                "id": "ATT-C4JCRNNDPGCCJN4805",
+                                                "name": "Vegetarian"
+                                            }
+                                        ],
+                                        "groupID": "ACL-C4JCRNDKVB5CVX7516"
+                                    }
+                                }
+                            },
+                            "takeawayPriceInMin": 1430,
+                            "discountedTakeawayPriceInMin": 1430,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "dietary": [
+                                "dietaryPreferences_vegetarian"
+                            ]
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3GZL1RJ",
+                            "name": "Chilli Cheese Fries",
+                            "available": true,
+                            "priceInMinorUnit": 1740,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3GZL1RJ/photo/1d791abf207e4aa0983a8e5bdb66c808_1711909226530573144.webp",
+                            "sortOrder": 9995,
+                            "discountedPriceInMin": 1740,
+                            "priceV2": {
+                                "amountInMinor": 1740,
+                                "amountDisplay": "17.40"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1740,
+                                "amountDisplay": "17.40"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {},
+                                "attributes": {
+                                    "Dietary preferences": {
+                                        "attributes": [
+                                            {
+                                                "id": "ATT-C4JCRNNDPGCCJN4805",
+                                                "name": "Vegetarian"
+                                            }
+                                        ],
+                                        "groupID": "ACL-C4JCRNDKVB5CVX7516"
+                                    }
+                                }
+                            },
+                            "takeawayPriceInMin": 1740,
+                            "discountedTakeawayPriceInMin": 1740,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3GZL1RJ/photo/1d791abf207e4aa0983a8e5bdb66c808_1711909226530573144.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3GZL1RJ/detail/1d791abf207e4aa0983a8e5bdb66c808_1711909226530573144.webp"
+                            ],
+                            "imgHrefFallback": "https://food-cms.grab.com/item/1-C2DYPGEYN8NYME-C2DYRCC3GZL1RJ/photos/1d791abf207e4aa0983a8e5bdb66c808_1711909226530573144.jpg",
+                            "dietary": [
+                                "dietaryPreferences_vegetarian"
+                            ]
+                        },
+                        {
+                            "ID": "1-C2DYPGEYN8NYME-C2DYRCC3ETKXDE",
+                            "name": "Cheesy Fries",
+                            "available": true,
+                            "priceInMinorUnit": 1000,
+                            "imgHref": "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3ETKXDE/photo/c03a47ca6b2c463aacf9f823c1eb18db_1706714629813978383.webp",
+                            "sortOrder": 9994,
+                            "discountedPriceInMin": 1000,
+                            "priceV2": {
+                                "amountInMinor": 1000,
+                                "amountDisplay": "10.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1000,
+                                "amountDisplay": "10.00"
+                            },
+                            "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                            "itemAttributes": {
+                                "displayedTexts": {},
+                                "attributes": {
+                                    "Dietary preferences": {
+                                        "attributes": [
+                                            {
+                                                "id": "ATT-C4JCRNNDPGCCJN4805",
+                                                "name": "Vegetarian"
+                                            }
+                                        ],
+                                        "groupID": "ACL-C4JCRNDKVB5CVX7516"
+                                    }
+                                }
+                            },
+                            "takeawayPriceInMin": 1000,
+                            "discountedTakeawayPriceInMin": 1000,
+                            "merchantID": "1-C2DYPGEYN8NYME",
+                            "thumbImages": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3ETKXDE/photo/c03a47ca6b2c463aacf9f823c1eb18db_1706714629813978383.webp"
+                            ],
+                            "images": [
+                                "https://food-cms.grab.com/compressed_webp/items/1-C2DYPGEYN8NYME-C2DYRCC3ETKXDE/detail/c03a47ca6b2c463aacf9f823c1eb18db_1706714629813978383.webp"
+                            ],
+                            "imgHrefFallback": "https://d1sag4ddilekf6.cloudfront.net/item/1-C2DYPGEYN8NYME-C2DYRCC3ETKXDE/photos/c03a47ca6b2c463aacf9f823c1eb18db_1706714629813978383.jpg",
+                            "dietary": [
+                                "dietaryPreferences_vegetarian"
+                            ]
+                        }
+                    ],
+                    "sortOrder": 10000,
+                    "CustomisedData": {
+                        "Name": {
+                            "Value": {
+                                "en": "Cheesy Fries",
+                                "ko": "치즈 프라이",
+                                "zh": "芝士薯条"
+                            }
+                        }
+                    },
+                    "createdAt": {
+                        "seconds": 1607570859,
+                        "nanos": 270812000
+                    }
+                }
+            ],
+            "menuMeta": {
+                "orderValueLimit": 50000,
+                "dineInOrderCashValueLimit": 50000,
+                "noLocationOrderValueLimit": 10000
+            },
+            "stackableOfferOption": 2,
+            "dietaryOptions": [
+                {
+                    "id": "dietaryPreferences_vegetarian",
+                    "name": "Vegetarian",
+                    "icon": "VegetarianOutlined",
+                    "description": "May contain dairy, egg, or alliums",
+                    "showDisclaimer": true
+                }
+            ]
+        },
+        "currency": {
+            "code": "MYR",
+            "symbol": "RM",
+            "exponent": 2
+        },
+        "deliverBy": "GRAB",
+        "radius": 14000,
+        "specialMerchantType": "GRABKITCHENNORMAL",
+        "deliveryOptions": [
+            "DINEIN"
+        ],
+        "sectionOpenHours": {
+            "open": true,
+            "displayedHours": "12:00 AM - 11:59 PM",
+            "sun": "00:00-23:59",
+            "mon": "00:00-23:59",
+            "tue": "00:00-23:59",
+            "wed": "00:00-23:59",
+            "thu": "00:00-23:59",
+            "fri": "00:00-23:59",
+            "sat": "00:00-23:59"
+        },
+        "status": "INACTIVE",
+        "sofConfiguration": {
+            "enabled": true,
+            "thresholdInMin": 1200,
+            "thresholdForDisplay": {
+                "amountInMinor": 1200,
+                "amountDisplay": "RM12.00"
+            },
+            "calculationMode": "FixedFee",
+            "fixFeeInMin": 200,
+            "fixFeeForDisplay": {
+                "amountInMinor": 200,
+                "amountDisplay": "RM2.00"
+            },
+            "tips": "For orders less than RM12.00 for this restaurant, a small order fee applies.",
+            "iconContent": {
+                "title": "Small order fee",
+                "amountForDisplay": {
+                    "amountInMinor": 200,
+                    "amountDisplay": "RM2.00"
+                },
+                "desc": "Thank you for choosing GrabFood as your delivery partner. This fee allows us to keep improving our service on delivering your favourite food."
+            }
+        },
+        "businessType": "FOOD",
+        "merchantClusterID": "MYMCL20210201113451017716",
+        "announcement": [
+            {
+                "desc": "Displaying vegetarian items only",
+                "priority": 3,
+                "announcementType": 9
+            }
+        ],
+        "serviceBasedMenuEnabled": true,
+        "merchantGroupID": "MYMG20201210031135033753",
+        "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/1-C2DYPGEYN8NYME/photos/093025e7fcae487ca1d90add85db9e40_1612179564920241924.jpeg",
+        "menuTranslationInfo": {
+            "menuLanguageSheet": {
+                "title": "Select menu language"
+            }
+        },
+        "merchantShareLink": {
+            "shareText": "Check out [INACTV: PH25] Bob's Cuisine - Santai Corner on GrabFood!",
+            "shareLink": "https://r.grab.com/g/6-{sourceID}-1-C2DYPGEYN8NYME"
+        },
+        "chainName": "Bob's Cuisine",
+        "chainNumber": "60_bobs_cuisine",
+        "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/1-C2DYPGEYN8NYME/list/9770f3756f3b40449be4374576fb7866_1607570706432230129.webp",
+        "roofTopBanner": {
+            "title": "Closed",
+            "type": "CLOSED"
+        },
+        "offerCarousel": {
+            "offerHighlights": [
+                {
+                    "highlight": {
+                        "title": "Get GrabUnlimited",
+                        "subtitle": "RM3.00 off delivery",
+                        "icon": "https://assets-mobile.grab.com/deliveries/food/food_delivery_fee_grab_vip_icon@3x.png"
+                    },
+                    "type": 4,
+                    "meta": "{\"deeplink\":\"grab://open?screenType=SUBSCRIPTION_PLAN_DETAIL&sourceID=MEX_STORE&sourceCampaignName=Grabunlimited&subscriptionStatus=0&churnStatus=0\"}"
+                },
+                {
+                    "highlight": {
+                        "type": "promoTag",
+                        "title": "50% off",
+                        "subtitle": "Min. spend RM12.00",
+                        "icon": "https://d1e7x4vhxitr4g.cloudfront.net/media/09/09313944-102b-4069-bde2-745122c308f5.png",
+                        "custom": {
+                            "promoTag": {
+                                "id": "32442419",
+                                "source": "omegaPromoTag"
+                            }
+                        },
+                        "backgroundColor": "#FFFFFF",
+                        "borderColor": "#DBDBDB"
+                    },
+                    "type": 2,
+                    "meta": "{\"offerID\":\"32442419\",\"discountToken\":\"2:32442419\",\"decisionID\":\"2:32442419_dc186f23-f21b-485f-9f83-07fdd3d5ec76\"}"
+                }
+            ]
+        }
+    },
+    "promotions": null,
+    "enableServiceBasedMenu": true,
+    "enableSTO": true,
+    "enableSTOReboot": false,
+    "featureFlags": null
+}
