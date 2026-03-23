@@ -1,5 +1,5 @@
 
-FOLDER_PATH = "grab_food_pages"
+FOLDER_PATH = "PDP"
 OUTPUT_FOLDER_PATH="outputFiles"
 import mysql.connector
 import json
@@ -16,6 +16,8 @@ DATABASE = 'grabfood'
 def get_connection():
     return mysql.connector.connect(**DB_CONFIG)
 
+def get_connection_thread():
+    return mysql.connector.connect(**{**DB_CONFIG,"database":DATABASE})
 
 def create_database(cursor):
     cursor.execute(f"CREATE DATABASE IF NOT EXISTS {DATABASE}")
@@ -82,3 +84,44 @@ def insert_data(cursor, grab_food):
         json.dumps([a.model_dump() for a in grab_food.availability]),  
         json.dumps([m.model_dump() for m in grab_food.menu])           
     ))
+
+def insert_multiple_data(cursor, grab_food_list):
+    if not grab_food_list:
+        return
+
+    query = """
+    INSERT INTO restaurant_data (
+        restaurant_name,
+        product_category,
+        product_img,
+        latitude,
+        longitude,
+        time_zone,
+        currency,
+        delivery_time,
+        rating,
+        deliverable_distance,
+        availability,
+        menu
+    )
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    """
+
+    rows = []
+    for gf in grab_food_list:
+        rows.append((
+            gf.restaurant_name,
+            gf.product_category,
+            gf.img,
+            gf.location.latitude,
+            gf.location.longitude,
+            gf.timeZone,
+            gf.currency,
+            gf.delivery_time,
+            gf.rating,
+            gf.deliverable_distance,
+            json.dumps([a.model_dump() for a in gf.availability]),
+            json.dumps([m.model_dump() for m in gf.menu])
+        ))
+
+    cursor.executemany(query, rows)

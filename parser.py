@@ -10,21 +10,23 @@ def parse_file(file_path):
     try:
         if raw.get('merchant') is not None:
             data = raw['merchant']
+            # print(f"merchant data found in {file_path}")
         else:
-            print(f"No merchant data found in {file_path}")
-            return GrabFood(
-        restaurant_name=None,
-        product_category=None,
-        img=None,
-        location=Location(latitude=0.0, longitude=0.0),
-        timeZone=None,
-        currency=None,
-        delivery_time=None,
-        rating=None,
-        availability=[],
-        deliverable_distance=None,
-        menu=[]
-    )
+            # print(f"No merchant data found in {file_path}")
+            return None
+        #  GrabFood(
+        # restaurant_name=None,
+        # product_category=None,
+        # img=None,
+        # location=Location(latitude=0.0, longitude=0.0),
+        # timeZone=None,
+        # currency=None,
+        # delivery_time=None,
+        # rating=None,
+        # availability=[],
+        # deliverable_distance=None,
+        # menu=[]
+    # )
 
         location = Location(
             latitude=data.get('latlng', {}).get('latitude'),
